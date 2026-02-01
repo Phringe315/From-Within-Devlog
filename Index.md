@@ -75,7 +75,7 @@ This log is part of the build process.
 
 Next
 
-The next entry will focus on how I approached world “memory” without turning it into a grind or punishment system, and why several early designs failed outright.
+The next entry will focus on how I approached world “memory” without turning it into a grind or punishment systemt.
 
 
 
