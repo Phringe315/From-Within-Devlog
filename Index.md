@@ -6,7 +6,7 @@ Design notes and process documentation for *From Within*.
 ## Entries
 
 - [Devlog #0 — Why This Exists](index.md)
-- [Devlog #1 — World Memory Without Grind](devlogs/devlog-001.md)
+- [Devlog #1 — A World Without The Player](devlogs/devlog-001.md)
 
 
 
