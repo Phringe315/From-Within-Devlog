@@ -11,7 +11,7 @@ Design notes and process documentation for *From Within*.
 
 
 
-Devlog #0 — Why This Exists 
+## Devlog #0 — Why This Exists 
 
 From Within is a long-term solo game project focused on building a world that remembers.
 
@@ -28,7 +28,7 @@ Features are less interesting than why they exist. This log focuses on constrain
 To create a public record of process
 Not as a tutorial, and not as marketing, but as a traceable account of how the project evolves over time.
 
-What This Devlog Covers
+## What This Devlog Covers
 
 This is not a code walkthrough or implementation guide.
 It is not a feature roadmap or milestone tracker.
@@ -45,7 +45,7 @@ long-term thinking around determinism, persistence, and world evolution
 
 I’ll stay intentionally above the level of raw implementation. Exact formulas, data schemas, and code-level details live in the project itself—not in this log.
 
-Core Principles
+## Core Principles
 
 A few principles shape everything in this project:
 
@@ -63,7 +63,7 @@ If a system behaves correctly but feels unpredictable or opaque, it’s wrong.
 
 These principles are stable. Their implementation is not.
 
-Scope
+## Scope
 
 This is a long-horizon project. Progress will not be linear, and much of the work will be invisible until systems start interacting in meaningful ways.
 
