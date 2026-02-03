@@ -2,7 +2,7 @@
 
 ---
 
-## Section 1 — The Assumption
+## The Assumption
 
 I assumed a debug menu would be a contained problem.
 
@@ -20,7 +20,7 @@ Every place where the response depended on timing, fallback logic, or unspoken a
 
 ---
 
-## Section 2 — When “Almost Correct” Is Worse Than Wrong
+## When “Almost Correct” Is Worse Than Wrong
 
 What made this difficult wasn’t that anything was clearly broken.
 
@@ -38,7 +38,7 @@ That distinction mattered more than any individual bug.
 
 ---
 
-## Section 3 — Truth Without Timing Isn’t Truth
+## Truth Without Timing Isn’t Truth
 
 Eventually, it became clear that the issue wasn’t visual, and it wasn’t even accuracy.
 
@@ -58,7 +58,7 @@ Nothing underneath changed. The ambiguity did.
 
 ---
 
-## Section 4 — What Became Non-Negotiable
+## What Became Non-Negotiable
 
 Once the ambiguity was visible, it stopped being something I could work around.
 
@@ -76,7 +76,7 @@ That became non-negotiable.
 
 ---
 
-## Section 5 — What This Changed
+## What This Changed
 
 After this, I became less interested in whether something worked, and more interested in *why* it appeared to.
 
