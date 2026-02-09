@@ -8,7 +8,7 @@ Design notes and process documentation for *From Within*.
 - [Devlog #0 — Why This Exists](index.md)
 - [Devlog #1 — A World Without The Player](Devlogs/devlog-001.md)
 - [Devlog #2 — Almost Correct](Devlogs/devlog-002.md)
-- [Devlog #3 — Locking the Ground Beneath the Work](Devlongs/devlog-003.md)
+- [Devlog #3 — Locking the Ground Beneath the Work](Devlogs/devlog-003.md)
 
 
 
