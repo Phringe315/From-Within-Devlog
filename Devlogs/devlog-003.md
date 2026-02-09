@@ -100,4 +100,4 @@ This isn’t an announcement of what the game is, or when it will be finished.
 
 It’s a marker of how the work is being approached going forward.
 
-Only after the structure and the language to describe it were in place did it feel appropriate to begin building
+Only after the structure and the language to describe it were in place did it feel appropriate to continue building.
