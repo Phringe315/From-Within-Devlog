@@ -1,4 +1,4 @@
-# Devlog — Locking the Ground Beneath the Work
+# Devlog #3 — Locking the Ground Beneath the Work
 
 For a while now, development on *From Within* has felt like it was circling something important without quite landing on it.
 
